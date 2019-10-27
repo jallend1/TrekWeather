@@ -1,0 +1,19 @@
+/* ul{
+    display:inline;
+} */
+
+li{
+    display: inline;
+    list-style: none;
+}
+
+body{
+    background:orange;
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background: white;
+}
